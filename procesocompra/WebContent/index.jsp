@@ -18,7 +18,9 @@
 		<input type="number" name="unidades" placeholder="Unidades">
 		<input type="submit" value="Enviar">
 	</form>
+	
 	<hr>
+	
 	<a href="http://localhost:8080/procesocompra/privada.jsp">Socios</a>
 </body>
 </html>
